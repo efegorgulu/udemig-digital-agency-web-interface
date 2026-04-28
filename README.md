@@ -57,4 +57,4 @@ GitHub: https://github.com/efegorgulu
 
 ## License
 This project is intended for **educational and portfolio purposes only**.  
-It is **not affiliated with, endorsed by, or associated with any real digital agency or company**.# Udemig-Digital-Agency-Web-Interface-HTML-CSS-SCSS-
+It is **not affiliated with, endorsed by, or associated with any real digital agency or company**.
